@@ -912,7 +912,7 @@ function initReturnExploration() {
         // Animation de clic
         returnBtn.style.transform = 'scale(0.95)';
         setTimeout(() => {
-            window.location.href = 'https://abw444.github.io/page-interface-immersive/';
+            window.location.href = 'http://localhost:3000/';
         }, 150);
     });
     
