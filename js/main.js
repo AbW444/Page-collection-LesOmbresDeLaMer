@@ -861,6 +861,7 @@ function initReturnExploration() {
         console.error('ERREUR: Section expédition non trouvée');
         return;
     }
+	
     
     // Variable locale pour éviter les conflits
     let expeditionVisited = false;
